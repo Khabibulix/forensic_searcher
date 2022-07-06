@@ -15,5 +15,5 @@ Tool in Python that searches for forensics data or metadata
 </pre>
 <h4>Future improvements:</h4>
 <pre>
---->   Currently working on it
+--->   Retrieve all data about a certain file: last time modified, current permissions...etc
 </pre>
